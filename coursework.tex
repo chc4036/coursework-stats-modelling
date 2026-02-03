@@ -97,7 +97,16 @@ With log-likelihood function of:
 \[
 \text{log}(L(\theta)) = \sum_{i=1}^{n} \text{log}[(x_i^{\theta})^{y_i}(1-x_i^{\theta})^{1-y_i}]
 \]
-Using the scipy function scipy.optimize.minimize, we can find the minimum of $-log(L(\theta))$
+Using the scipy function scipy.optimize.minimize, we can find the minimum of $\text{-log}(L(\theta))$
+
+\begin{table}[]
+\begin{tabular}{lllll}
+ 1&  1& 1 &  1&  \\
+ 1& 1 &  1&  1&  \\
+ 1&  1& 1 &  1&  \\
+ 1& 1 & 1 & 1 & 
+\end{tabular}
+\end{table}
 \pagebreak
 
 \section{Evaluation}
