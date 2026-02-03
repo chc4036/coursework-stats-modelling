@@ -1,9 +1,50 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{investopediaPredictionMarkets}
+\bibitem[Peters(2026)]{investopediaPredictionMarkets}
 Katelyn Peters.
 \newblock Prediction markets explained: Types, uses, and real-world examples.
 \newblock \url{https://www.investopedia.com/terms/p/prediction-market.asp}, 2026.
 \newblock Accessed: 2026-02-01.
+
+\bibitem[{Kalshi}(2026{\natexlab{a}})]{kalshiContracts}
+{Kalshi}.
+\newblock Working with event contracts.
+\newblock \url{https://news.kalshi.com/p/what-are-event-contracts}, 2026{\natexlab{a}}.
+\newblock Accessed: 2026-02-01.
+
+\bibitem[{Kalshi}(2026{\natexlab{b}})]{kalshiPricing}
+{Kalshi}.
+\newblock How are prices determined?
+\newblock \url{https://help.kalshi.com/markets/markets-101/how-are-prices-determined}, 2026{\natexlab{b}}.
+\newblock Accessed: 2026-02-02.
+
+\bibitem[{Kalshi}(2026{\natexlab{c}})]{kalshiSabrina}
+{Kalshi}.
+\newblock How many grammy awards will sabrina carpenter win?
+\newblock \url{https://kalshi.com/markets/kxgrammycountsab/award/kxgrammycountsab-26}, 2026{\natexlab{c}}.
+\newblock Accessed: 2026-02-02.
+
+\bibitem[{Kalshi}(2026{\natexlab{d}})]{kalshiLady}
+{Kalshi}.
+\newblock How many grammy awards will lady gaga win?
+\newblock \url{https://kalshi.com/markets/kxgrammycountlad/award/kxgrammycountlad-26}, 2026{\natexlab{d}}.
+\newblock Accessed: 2026-02-02.
+
+\bibitem[{Kalshi}(2026{\natexlab{e}})]{kalshiKendrick}
+{Kalshi}.
+\newblock How many grammy awards will kendrick lamar win?
+\newblock \url{https://kalshi.com/markets/kxgrammycountken/award/kxgrammycountken-26}, 2026{\natexlab{e}}.
+\newblock Accessed: 2026-02-02.
+
+\bibitem[{Kalshi}(2026{\natexlab{f}})]{kalshiBad}
+{Kalshi}.
+\newblock How many grammy awards will bad bunny win?
+\newblock \url{https://kalshi.com/markets/kxgrammycountbad/award/kxgrammycountbad-26}, 2026{\natexlab{f}}.
+\newblock Accessed: 2026-02-02.
 
 \end{thebibliography}
