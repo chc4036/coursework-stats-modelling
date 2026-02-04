@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex coursework"] 1770095439.03729 "coursework.aux" "coursework.bbl" "coursework" 1770095464.5157 0
+["bibtex coursework"] 1770181898.84404 "coursework.aux" "coursework.bbl" "coursework" 1770182410.65853 0
   "./references.bib" 1770059779 1978 970c7bdbe65ed2a23a3c0f1640d81f8d ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1725355804 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
-  "coursework.aux" 1770095463 1592 2ce5c8a4a242bf5672eb08a477155539 "pdflatex"
+  "coursework.aux" 1770182409 1592 66a7c56a60253cf1522f23058472229e "pdflatex"
   (generated)
   "coursework.bbl"
   "coursework.blg"
   (rewritten before read)
-["pdflatex"] 1770095462.48883 "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" "coursework.pdf" "coursework" 1770095464.51624 0
-  "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" 1770095461 4767 188fd476a9fc67c770a8d5e084a0aec7 ""
+["pdflatex"] 1770182408.52397 "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" "coursework.pdf" "coursework" 1770182410.65945 0
+  "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" 1770182407 6459 802222a8fbdf3f39151c6ff788760810 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1725349056 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1725351622 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1725350537 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -106,7 +106,6 @@
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty" 1725352202 2671 70891d50dac933918b827d326687c6e8 ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx" 1725352202 2885 9c645d672ae17285bba324998918efd8 ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty" 1725352202 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
-  "c:/texlive/2024/texmf-dist/tex/latex/grfext/grfext.sty" 1725352272 7133 b94bbacbee6e4fdccdc7f810b2aec370 ""
   "c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty" 1725352706 17914 4c28a13fc3d975e6e81c9bea1d697276 ""
   "c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def" 1725352731 48154 c55ef1b9fe7eb198bd7ba0e01cbf5189 ""
   "c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty" 1725352731 220493 bbff330ab3155b3f5df1de2445e80c9f ""
@@ -122,17 +121,18 @@
   "c:/texlive/2024/texmf-dist/tex/latex/pdfsync/pdfsync.sty" 1725356695 10768 173607d6fd65badaedd45e09a96c04be ""
   "c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1725358135 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1725358203 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty" 1725360433 14067 1383bd6ee23ab18ae0e796155404deb7 ""
   "c:/texlive/2024/texmf-dist/tex/latex/tools/bm.sty" 1725360433 13236 1aba485b47e3c79a47dc0906cc971820 ""
   "c:/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1725361009 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1725346537 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725361899 5543950 2aa73a438b7054b2327b796fbe5f4275 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1725362062 8239323 913147caaeadd53ac3ba0061ab992d4e ""
   "c:/texlive/2024/texmf.cnf" 1725361874 713 e69b156964470283e0530f5060668171 ""
-  "coursework.aux" 1770095463 1592 2ce5c8a4a242bf5672eb08a477155539 "pdflatex"
-  "coursework.bbl" 1770095439 2041 2e37b723ed003080675070ef8e346bd8 "bibtex coursework"
-  "coursework.out" 1770095463 861 c88134cc3838c20954343aea94845990 "pdflatex"
-  "coursework.tex" 1770095461 4767 188fd476a9fc67c770a8d5e084a0aec7 ""
-  "coursework.toc" 1770095463 507 e9f26b901139e5a5cd4d6b05890435a2 "pdflatex"
+  "coursework.aux" 1770182409 1592 66a7c56a60253cf1522f23058472229e "pdflatex"
+  "coursework.bbl" 1770181899 2041 2e37b723ed003080675070ef8e346bd8 "bibtex coursework"
+  "coursework.out" 1770182409 861 d32ae719bacc048057da52d1d1f1246e "pdflatex"
+  "coursework.tex" 1770182407 6459 802222a8fbdf3f39151c6ff788760810 ""
+  "coursework.toc" 1770182409 507 06fab5a8de83370d7f9dec7f0397f18c "pdflatex"
   (generated)
   "coursework.aux"
   "coursework.log"
