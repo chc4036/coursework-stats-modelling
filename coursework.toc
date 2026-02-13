@@ -1,7 +1,10 @@
 \contentsline {section}{\numberline {1}Why this question}{2}{section.1}%
 \contentsline {section}{\numberline {2}Background}{2}{section.2}%
 \contentsline {section}{\numberline {3}Model}{2}{section.3}%
-\contentsline {section}{\numberline {4}Data Observations}{2}{section.4}%
+\contentsline {section}{\numberline {4}Data Observations}{3}{section.4}%
 \contentsline {section}{\numberline {5}Deriving the MLE of $\theta $}{4}{section.5}%
-\contentsline {section}{\numberline {6}Conclusion}{5}{section.6}%
-\contentsline {section}{\numberline {7}Conclusions and Future Work}{6}{section.7}%
+\contentsline {section}{\numberline {6}Analysis of findings}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Favorite-Longshot Bias}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Optimism bias}{4}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Conclusion}{5}{section.7}%
+\contentsline {section}{\numberline {8}Critical Use of AI}{5}{section.8}%

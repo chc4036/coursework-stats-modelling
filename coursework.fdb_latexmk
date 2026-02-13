@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex coursework"] 1770181898.84404 "coursework.aux" "coursework.bbl" "coursework" 1770182410.65853 0
-  "./references.bib" 1770059779 1978 970c7bdbe65ed2a23a3c0f1640d81f8d ""
+["bibtex coursework"] 1770386798.11252 "coursework.aux" "coursework.bbl" "coursework" 1770386800.55724 0
+  "./references.bib" 1770343500 2666 0a976bf8267070e46b7a68c93775a48d ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1725355804 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
-  "coursework.aux" 1770182409 1592 66a7c56a60253cf1522f23058472229e "pdflatex"
+  "coursework.aux" 1770386799 2716 85ddbf5d7b09f89378d16cf48a8795d9 "pdflatex"
   (generated)
   "coursework.bbl"
   "coursework.blg"
   (rewritten before read)
-["pdflatex"] 1770182408.52397 "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" "coursework.pdf" "coursework" 1770182410.65945 0
-  "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" 1770182407 6459 802222a8fbdf3f39151c6ff788760810 ""
+["pdflatex"] 1770386798.52033 "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" "coursework.pdf" "coursework" 1770386800.55767 0
+  "c:/Users/think/Documents/coursework and revision/statistical modelling/coursework1/coursework-stats-modelling/coursework.tex" 1770386793 9331 f1ce0591c8a87ef64005704fe1ffdabc ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1725349056 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1725351622 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1725350537 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -45,6 +45,7 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1725349022 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1725349022 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1725349022 1120 8b7d695260f3cff42e636090a8002094 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1725349022 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1725349022 768 1321e9409b4137d6fb428ac9dc956269 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1725346875 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1725346875 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -60,6 +61,7 @@
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1725346875 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1725346875 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1725346875 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1725346875 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1725346875 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb" 1725349056 145929 5c9aebea9ba6e33fc93158c04a3bdcd8 ""
   "c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1725355588 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -93,6 +95,7 @@
   "c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty" 1725353723 5048 7ebf0f2edf1ef6783e8fe2201a95d0e8 ""
   "c:/texlive/2024/texmf-dist/tex/latex/base/size11.clo" 1725353723 8464 6b4d01be31907866396cf4ac23881d2d ""
   "c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty" 1725353723 2846 50113a9b2387b6447504672739a4a25b ""
+  "c:/texlive/2024/texmf-dist/tex/latex/capt-of/capt-of.sty" 1725348534 1311 063f8536a047a2d9cb1803321f793f37 ""
   "c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1725350856 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1725350994 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1725351193 18785 68479cdf1125ff4e246e1d01e45551a1 ""
@@ -128,11 +131,11 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725361899 5543950 2aa73a438b7054b2327b796fbe5f4275 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1725362062 8239323 913147caaeadd53ac3ba0061ab992d4e ""
   "c:/texlive/2024/texmf.cnf" 1725361874 713 e69b156964470283e0530f5060668171 ""
-  "coursework.aux" 1770182409 1592 66a7c56a60253cf1522f23058472229e "pdflatex"
-  "coursework.bbl" 1770181899 2041 2e37b723ed003080675070ef8e346bd8 "bibtex coursework"
-  "coursework.out" 1770182409 861 d32ae719bacc048057da52d1d1f1246e "pdflatex"
-  "coursework.tex" 1770182407 6459 802222a8fbdf3f39151c6ff788760810 ""
-  "coursework.toc" 1770182409 507 06fab5a8de83370d7f9dec7f0397f18c "pdflatex"
+  "coursework.aux" 1770386799 2716 85ddbf5d7b09f89378d16cf48a8795d9 "pdflatex"
+  "coursework.bbl" 1770386798 2554 5c9ab64e515ad5e6d1a641a5beec2f39 "bibtex coursework"
+  "coursework.out" 1770386799 1261 2661e5292b475a751a170666604217c1 "pdflatex"
+  "coursework.tex" 1770386793 9331 f1ce0591c8a87ef64005704fe1ffdabc ""
+  "coursework.toc" 1770386799 741 191b9fed8c54bb3b6bf792555fb0edc3 "pdflatex"
   (generated)
   "coursework.aux"
   "coursework.log"

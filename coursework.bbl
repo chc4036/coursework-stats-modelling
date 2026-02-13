@@ -1,4 +1,4 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -46,5 +46,18 @@ Katelyn Peters.
 \newblock How many grammy awards will bad bunny win?
 \newblock \url{https://kalshi.com/markets/kxgrammycountbad/award/kxgrammycountbad-26}, 2026{\natexlab{f}}.
 \newblock Accessed: 2026-02-02.
+
+\bibitem[Chan(2026)]{courseworkRepo}
+Cyrus Chan.
+\newblock coursework-stats-modelling.
+\newblock \url{https://github.com/chc4036/coursework-stats-modelling}, 2026.
+\newblock Accessed: 2026-02-04.
+
+\bibitem[Griffith(1949)]{751b9a41-8bf7-3560-b35d-227c8740b0f2}
+R.~M. Griffith.
+\newblock Odds adjustments by american horse-race bettors.
+\newblock \emph{The American Journal of Psychology}, 62\penalty0 (2):\penalty0 290--294, 1949.
+\newblock ISSN 00029556.
+\newblock URL \url{http://www.jstor.org/stable/1418469}.
 
 \end{thebibliography}
